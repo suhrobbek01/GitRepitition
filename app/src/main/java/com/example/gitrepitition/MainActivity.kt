@@ -11,7 +11,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding= ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
+        //commit  o`zgarishlarni belgilab olish
+        //push -> o`zgarishlarni yuklash
+        //pull -> o`zgarishlarni qabul qilish
 
     }
 }
